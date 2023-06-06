@@ -1,2 +1,3 @@
 # verilog_code
-Verilog code practice/learning 2022
+Verilog System Design Lab, TUM 2023
+
